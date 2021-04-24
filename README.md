@@ -1,2 +1,2 @@
 # Personal-Site
-Technologies used:HTML
+Technologies used: HTML
